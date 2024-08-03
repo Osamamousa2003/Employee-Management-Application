@@ -1,0 +1,14 @@
+C:\Users\osama\Desktop\Employee Management Application\bin\Debug\net8.0\Employee Management Application.exe
+C:\Users\osama\Desktop\Employee Management Application\bin\Debug\net8.0\Employee Management Application.deps.json
+C:\Users\osama\Desktop\Employee Management Application\bin\Debug\net8.0\Employee Management Application.runtimeconfig.json
+C:\Users\osama\Desktop\Employee Management Application\bin\Debug\net8.0\Employee Management Application.dll
+C:\Users\osama\Desktop\Employee Management Application\bin\Debug\net8.0\Employee Management Application.pdb
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.AssemblyInfoInputs.cache
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.AssemblyInfo.cs
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.dll
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\refint\Employee Management Application.dll
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.pdb
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\Employee Management Application.genruntimeconfig.cache
+C:\Users\osama\Desktop\Employee Management Application\obj\Debug\net8.0\ref\Employee Management Application.dll
